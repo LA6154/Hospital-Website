@@ -32,7 +32,8 @@ ul li a:hover{
     color: black;
 }
 .logo{
-    font-size: 22px;
+    font-size: 20px;
+ color: crimson;
 }
 .main{
     display: flex;
